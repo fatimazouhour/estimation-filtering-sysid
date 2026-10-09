@@ -1,0 +1,16 @@
+# files provided by the professor course 
+*.pdf 
+*.mat 
+# provided by the professor , also remove
+*nnsysid*
+# remove my personal exam files 
+exam_06_07/
+
+# some of resources found either online or resolved during other practices 
+resourcesOutOfCourse/
+examplesInClass/
+
+example_last_lecture.m
+system_identification.m
+
+trial_report_s361126.docx
